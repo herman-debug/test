@@ -1,0 +1,4 @@
+a.append()
+extend
+insert
+a[1:]=[1,2,3]
